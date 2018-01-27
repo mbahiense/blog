@@ -1,0 +1,28 @@
+languageCode = "en-us"
+title = "r00t-bahiense"
+baseurl = "http://mbahiense.surge.sh/"
+theme = "nix"
+
+[menu]
+#  [[menu.header]]
+#    name = "post"
+#    weight = 0
+#    url = "/post"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  GithubID = "mbahiense"
+  TwitterID = "MrBahiense"
+  LinkedInID = "mbahiense"
+  FacebookID = "profile.php?id=100002527843132"
+  InstagramID = "marcosbahiense"
+  Name = "Mr Bahiense"
+  HeaderUsername = "mbahiense"
+  HeaderHostname = "r00t"
+  Email = "marcos.bahiense@gmail.com"
+  About = "Technology Enthusiast, Geek, Software Develop, Hacker, Bodyboard from old times. Creating and correcting bugs in the middle of the Amazon jungle. Member with pride of KaiOS BR Team."
+  ProfilePicture = "/profile.jpg"
+  GoogleAnalytics = "UA-22445804-2"

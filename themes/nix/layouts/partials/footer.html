@@ -1,0 +1,13 @@
+<footer class="footer text-center">
+	<p id="foo">
+<span class="credit">
+	Powered by
+	<a target="_blank" href="https://gohugo.io">Hugo</a>,
+</span>
+</p>
+</footer>
+<script>
+        const span = document.createElement('span');
+        span.innerHTML = " Copyright &copy;" +  new Date().getUTCFullYear() + " - {{ .Site.Params.Name }}.";
+        document.querySelector('#foo').appendChild(span);
+</script>
