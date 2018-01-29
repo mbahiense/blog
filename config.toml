@@ -1,7 +1,8 @@
 languageCode = "en-us"
-title = "r00t-bahiense"
+title = "r00t"
 baseurl = "http://mbahiense.surge.sh/"
 theme = "nix"
+favicon = "favicon.ico"
 
 [menu]
 #  [[menu.header]]

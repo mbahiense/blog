@@ -25,7 +25,6 @@ Official commit of the KaiOS team BR.
 * ```ESDControl ``` - Auditory expert system.
 * ```Starlight System ``` - Lighting management system. (IoT)
 * ```Progressive Web Apps``` - Dev in KaiOS platform.
-* ...
 
 ## Stack that I use the most
 <div class="places-work">
@@ -42,8 +41,6 @@ Official commit of the KaiOS team BR.
 <img src="/procenge.png" width="200" height="100" title="Procenge" alt="Procenge">
 <img src="/fucapi.png" width="200" height="100" title="Fucapi" alt="Fucapi">
 </div>
-
-See more and contribute on [GitHub](https://github.com/mbahiense).
 
 Have questions or suggestions? Feel free to [ask me on Twitter](https://twitter.com/MrBahiense).
 
